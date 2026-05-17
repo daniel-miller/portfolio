@@ -1,0 +1,44 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Socials from "@/components/Socials.astro";
+import { Content as Readme } from "../../README.md";
+import { SOCIALS } from "@/constants";
+---
+
+<Layout>
+  <Header />
+  <main id="main-content" data-layout="index" class="app-layout">
+    <article
+      class="app-prose mb-12 max-w-app rounded-2xl bg-background-soft p-6 sm:p-8 prose-img:border-0"
+      data-pagefind-body
+    >
+      <img
+        src="/github-avatar.jpg"
+        alt="Daniel Miller"
+        class="float-right ml-4 mb-4 h-32 w-32 rounded-full object-cover sm:h-40 sm:w-40"
+      />
+      <Readme />
+    </article>
+    {
+      SOCIALS.length > 0 && (
+        <div class="mb-20 flex max-sm:flex-col sm:items-center">
+          <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Find me:</div>
+          <Socials />
+        </div>
+      )
+    }
+  </main>
+  <Footer />
+</Layout>
+
+<script>
+  document.addEventListener("astro:page-load", () => {
+    const indexLayout = (document.querySelector("#main-content") as HTMLElement)
+      ?.dataset?.layout;
+    if (indexLayout) {
+      sessionStorage.setItem("backUrl", "/");
+    }
+  });
+</script>

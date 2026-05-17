@@ -1,0 +1,22 @@
+export const SITE = {
+  website: "https://danielmiller.ca/",
+  author: "Daniel Miller",
+  profile: "https://danielmiller.ca/",
+  desc: "Career portfolio for Daniel Miller",
+  title: "Daniel Miller | Career Portfolio",
+  lightAndDarkMode: true,
+  postPerIndex: 4,
+  postPerPage: 4,
+  scheduledPostMargin: 15 * 60 * 1000,
+  showArchives: true,
+  showBackButton: true,
+  editPost: {
+    enabled: false,
+    text: "Edit page",
+    url: "https://github.com/daniel-miller/portfolio/edit/main/",
+  },
+  dynamicOgImage: true,
+  dir: "ltr",
+  lang: "en",
+  timezone: "America/Denver",
+} as const;
