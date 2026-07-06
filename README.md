@@ -1,6 +1,6 @@
 # Daniel Miller
 
-> Creative writer, software developer, database wrangler, and practical AI advocate.
+> Creative writer, software developer, database wrangler, and practical AI advocate
 
 - **Location:** Calgary, Alberta, Canada
 - **Email:** contact@danielmiller.ca
@@ -15,19 +15,19 @@
 
 ## Engagement Interests
 
-> I'm not currently available for new engagements.
-
 I am interested in senior work involving platform architecture, database modernization, system integration, LMS and workforce platforms, and long-lived business systems that need careful stewardship.
+
+> I am not currently available for new engagements.
 
 ---
 
 ## Profile
 
-I have spent more than 30 years designing, building, and operating software systems for organizations ranging from small non-profit community associations to international enterprises.
+I have spent more than 30 years designing, building, and operating software systems for organizations ranging from small non-profit community associations to large international enterprises.
 
 I have hands-on experience with every aspect of the software project lifecycle, including technical and business roles. Customers value my ability to understand and appreciate their needs, applying creativity and ingenuity to arrive at solutions that are flexible, efficient, and cost-effective.
 
-My areas of technical specialization include agentic software development, business application architecture, database modeling and development, and large-scale migration of data between systems.
+My areas of technical specialization include agentic software development, business application architecture, database design and implementation, and large-scale migration of data between systems.
 
 ---
 
@@ -51,7 +51,7 @@ My areas of technical specialization include agentic software development, busin
 
 ### Solution Priorities
 
-Simple · Secure · Affordable · Multipurpose · Fast · Flexible · Powerful
+Simple · Secure · Affordable · Multipurpose · Fast · Flexible
 
 ---
 
@@ -213,9 +213,9 @@ Coursework included software engineering, compiler design, management informatio
 
 ### Continuing Professional Education
 
-- **ChatGPT and LangChain: Developer Masterclass** - Udemy (May 2026 - in progress)
-- **RabbitMQ In Practice** - Udemy (May 2026 - in progress)
-- **Understanding TypeScript** - Udemy (May 2026 - in progress)
+- **ChatGPT and LangChain: Developer Masterclass** - Udemy (May 2026)
+- **RabbitMQ In Practice** - Udemy (May 2026)
+- **Understanding TypeScript** - Udemy (May 2026)
 
 - **Agentic Coding for Production** - Dometrain (Apr 2026)
 - **Claude Code - The Practical Guide** - Udemy (Apr 2026)
