@@ -3,9 +3,8 @@
 > Creative writer, software developer, database wrangler, and practical AI advocate
 
 - **Location:** Calgary, Alberta, Canada
-- **Email:** contact@danielmiller.ca
-- **Mobile:** [(403) 464-2035](tel:+14034642035)
 - **Industry:** IT Services and IT Consulting
+- **Contact:** [Get in touch](/contact)
 - **Projects:** [github.com/daniel-miller](https://github.com/daniel-miller)
 - **Articles:** [medium.com/@daniel-miller](https://medium.com/@daniel-miller)
 
