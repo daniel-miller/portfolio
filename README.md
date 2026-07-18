@@ -1,6 +1,6 @@
 # Daniel Miller
 
-> Creative writer, software developer, database wrangler, and practical AI advocate
+> Creative and technical writing, platform architecture, software design and implementation, database wrangling, and practical AI advocacy
 
 - **Location:** Calgary, Alberta, Canada
 - **Industry:** IT Services and IT Consulting
