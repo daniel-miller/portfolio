@@ -1,4 +1,4 @@
-# Daniel Miller
+# Software Developer & Writer
 
 > Creative and technical writing, platform architecture, software design and implementation, database wrangling, and practical AI advocacy
 
