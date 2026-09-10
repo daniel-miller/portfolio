@@ -1,6 +1,6 @@
 # Software Developer & Writer
 
-> Creative and technical writing, platform architecture, software design and implementation, database wrangling, and practical AI advocacy
+> Creative and technical writing, platform architecture, software design and implementation, database wrangling, and clear-eyed AI adoption
 
 - **Location:** Calgary, Alberta, Canada
 - **Industry:** IT Services and IT Consulting
@@ -26,7 +26,7 @@ I have spent more than 30 years designing, building, and operating software syst
 
 I have hands-on experience with every aspect of the software project lifecycle, including technical and business roles. Customers value my ability to understand and appreciate their needs, applying creativity and ingenuity to arrive at solutions that are flexible, efficient, and cost-effective.
 
-My areas of technical specialization include agentic software development, business application architecture, database design and implementation, and large-scale migration of data between systems.
+My areas of technical specialization include business application architecture, database design and implementation, agentic software development, and large-scale migration of data between systems.
 
 ---
 
@@ -77,6 +77,8 @@ Designed, built, and supported custom business applications for energy, educatio
 ---
 
 ## AI and Agentic Programming
+
+Opinions on AI are increasingly divided, and part of my role is working between the two camps. People who are wary of AI often have sound reasons, and I start from those before looking for the places where agents do genuinely useful work. People who are eager to hand work to agents tend to underestimate what goes wrong without review, and I help them see where and why agents need careful human oversight.
 
 I use AI coding agents daily, including Claude Code, Codex, Cursor, and related LLM tooling, to design, build, test, and review software more effectively without outsourcing engineering judgment.
 
