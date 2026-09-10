@@ -19,7 +19,7 @@ const WEB3FORMS_ACCESS_KEY = "5a358e29-cacc-4316-877f-8e15518a45cd";
   <Header />
 
   <main id="main-content" data-layout="contact" class="app-layout">
-    <section class="mx-auto mb-16 mt-8 max-w-app">
+    <section class="mx-auto mt-8 mb-16 max-w-app">
       <h1 class="text-3xl font-bold sm:text-4xl">Contact</h1>
       <p class="mt-3 text-foreground/85">
         Have a project or a question? Send a message and it lands in my inbox.
@@ -32,8 +32,16 @@ const WEB3FORMS_ACCESS_KEY = "5a358e29-cacc-4316-877f-8e15518a45cd";
         class="mt-8 flex flex-col gap-5 rounded-2xl bg-background-soft p-6 sm:p-8"
       >
         <input type="hidden" name="access_key" value={WEB3FORMS_ACCESS_KEY} />
-        <input type="hidden" name="subject" value="New message from danielmiller.ca" />
-        <input type="hidden" name="from_name" value="danielmiller.ca contact form" />
+        <input
+          type="hidden"
+          name="subject"
+          value="New message from danielmiller.ca"
+        />
+        <input
+          type="hidden"
+          name="from_name"
+          value="danielmiller.ca contact form"
+        />
         <!-- honeypot: bots fill this, humans never see it -->
         <input
           type="checkbox"
@@ -102,7 +110,9 @@ const WEB3FORMS_ACCESS_KEY = "5a358e29-cacc-4316-877f-8e15518a45cd";
 
 <script>
   document.addEventListener("astro:page-load", () => {
-    const form = document.getElementById("contact-form") as HTMLFormElement | null;
+    const form = document.getElementById(
+      "contact-form"
+    ) as HTMLFormElement | null;
     const status = document.getElementById("form-status");
     if (!form || !status) return;
 
@@ -115,7 +125,9 @@ const WEB3FORMS_ACCESS_KEY = "5a358e29-cacc-4316-877f-8e15518a45cd";
 
     form.addEventListener("submit", async e => {
       e.preventDefault();
-      const button = form.querySelector("button[type=submit]") as HTMLButtonElement;
+      const button = form.querySelector(
+        "button[type=submit]"
+      ) as HTMLButtonElement;
       button.disabled = true;
       setStatus("Sending...", true);
 
@@ -128,9 +140,15 @@ const WEB3FORMS_ACCESS_KEY = "5a358e29-cacc-4316-877f-8e15518a45cd";
         const data = await res.json();
         if (res.ok && data.success) {
           form.reset();
-          setStatus("Thanks - your message has been sent. I'll be in touch.", true);
+          setStatus(
+            "Thanks - your message has been sent. I'll be in touch.",
+            true
+          );
         } else {
-          setStatus(data.message || "Something went wrong. Please try again.", false);
+          setStatus(
+            data.message || "Something went wrong. Please try again.",
+            false
+          );
         }
       } catch {
         setStatus("Network error. Please try again.", false);

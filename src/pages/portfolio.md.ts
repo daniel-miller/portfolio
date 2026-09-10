@@ -9,6 +9,7 @@ export const GET: APIRoute = () =>
   new Response(body, {
     headers: {
       "Content-Type": "text/markdown; charset=utf-8",
-      "Content-Disposition": 'attachment; filename="daniel-miller-portfolio.md"',
+      "Content-Disposition":
+        'attachment; filename="daniel-miller-portfolio.md"',
     },
   });

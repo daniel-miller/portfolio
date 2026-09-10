@@ -91,19 +91,22 @@ Agents are most valuable when paired with domain expertise and a human who knows
 ## Selected Engagements
 
 ### Learning System Developer and Integrator - Keyera
-*Calgary, Alberta · (May 2025 - present)*
+
+_Calgary, Alberta · (May 2025 - present)_
 
 Develop and integrate the enterprise learning management system to support workforce training, compliance, and professional development across Keyera's energy operations. Build custom integrations between the LMS and upstream HR, identity, and operational systems, automate course assignment and reporting workflows, and partner with subject matter experts to translate technical and regulatory training requirements into reliable, auditable digital learning experiences.
 
 ### Platform Architect - InSite Information Systems
-*Vancouver, British Columbia · (Jan 2000 - present)*
+
+_Vancouver, British Columbia · (Jan 2000 - present)_
 
 Architected and led development of the Shift iQ platform from 2000 onward. Continue to provide architectural and development support. Shift iQ is a cloud-based learning and credential management system used by training providers, regulators, and industry associations across Canada.
 
 **Formal roles:** Platform Architect · Lead Software Developer · Database Administrator · Chief Technology Officer · Managing Partner
 
 ### Founder and Managing Partner - Miller Databases
-*Calgary, Alberta · (May 1998 - present)*
+
+_Calgary, Alberta · (May 1998 - present)_
 
 Launched the firm in 1998. It grew into the largest and most successful custom software development services firm in northern British Columbia. Under my business leadership and technical direction, the company completed hundreds of assignments for customers across Canada and the United States, including IEEE, LG, Fox Media, Talisman Energy, Disney, Deloitte, ABC News, and Sierra Wireless.
 
@@ -112,12 +115,14 @@ In 2005 I relocated to Calgary and restructured the business to focus on the dev
 Over the years I have filled a variety of formal and informal roles, internally within the company as well as externally while on contract to clients. These roles have included: Chief Technology Officer · Platform Architect · Full-Stack Software Developer · Database Administrator · Software Project Manager · Business and Systems Analyst · Systems Integrator and Trainer
 
 ### Instructor and Research Assistant - University of Northern British Columbia
-*Prince George, British Columbia · (Jan 1995 - May 2001)*
+
+_Prince George, British Columbia · (Jan 1995 - May 2001)_
 
 Held overlapping appointments with the Computer Science faculty as a research assistant, teaching assistant, and instructor. Contributed to funded research in software methodology and real-time systems, supported undergraduate courses through lab instruction, marking, and one-on-one tutoring, and led classroom instruction for introductory and intermediate computer science courses that included programming fundamentals, data structures, and applied software engineering.
 
 ### Programmer Analyst - Canfor
-*Prince George, British Columbia · (Apr 1994 - Aug 1997)*
+
+_Prince George, British Columbia · (Apr 1994 - Aug 1997)_
 
 Employed by the corporate IT department to work on server and network infrastructure, as well as end-user desktop support. Played an active role in the large-scale migration of data from legacy systems to new ERP platforms. Designed and implemented numerous custom database applications to close functional gaps in the enterprise software stack, delivering targeted tools that streamlined day-to-day operations for staff.
 
